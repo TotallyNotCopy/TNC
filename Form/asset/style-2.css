@@ -1,0 +1,62 @@
+@import url("mainClass.css");
+
+form {
+    width: 100%;
+    background-color: rgba(110, 110, 110, 0.1);
+    box-shadow: 2px 2px 4px rgb(90, 90, 90);
+}
+.w-max {
+    width: max-content;
+   }
+.w-90 {
+    width: 90%;
+   }
+.w-80 {
+    width: 80%;
+}
+.w-60 {
+ width: 60%;
+}
+.w-50 {
+    width: 50%;
+}
+.w-40 {
+    width: 40%;
+}
+.w-20 {
+    width: 20%;
+}
+.w-min {
+    width: min-content;
+}
+.border-none {
+    border: none;
+}
+.border-blue {
+    border: solid 2px rgb(26, 30, 252);
+}
+.border-rad {
+    border-radius: 1px;
+}
+.background-none {
+    background-color: rgba(255, 255, 255, 0);
+}
+.background-blue {
+    background-color: rgb(26, 30, 252);
+    color: #fff;
+}
+.margin-all {
+    margin: .5em;
+}
+.margin-b {
+    margin-bottom: .5em;
+}
+.padding-all {
+    padding: .2em;
+}
+.padding-lr {
+    padding: 0 .2em;
+}
+.padding-tb {
+    padding: .2em 0;
+}
