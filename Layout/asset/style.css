@@ -1,0 +1,10 @@
+@import url("mainClass.css");
+
+@media screen and (max-width: 1024px) {
+    #midleSection {
+        flex-direction: column;
+    }
+    .w-80, .w-60, .w-50, .w-40, .w-20 {
+        width: 100%;
+    }
+}
