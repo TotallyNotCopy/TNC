@@ -18,6 +18,15 @@
 .column {
     flex-direction: column;
 }
+.space-between {
+    justify-content: space-between;
+}
+.space-around {
+    justify-content: space-around;
+}
+.space-evenly {
+    justify-content: space-evenly;
+}
 .wrap {
     flex-wrap: wrap;
 }
@@ -56,6 +65,12 @@
 }
 .margin-b {
     margin-bottom: .5em;
+}
+.margin-lr {
+    margin: 0 .5em;
+}
+.margin-tb {
+    margin: .5em 0;
 }
 .padding-all {
     padding: .2em;
